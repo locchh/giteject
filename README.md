@@ -48,3 +48,11 @@ Content:
 ## License
 
 See the [LICENSE](LICENSE) file for details.
+
+## References
+
+[gitingest](https://github.com/cyclotruc/gitingest)
+
+[gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
+[deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
